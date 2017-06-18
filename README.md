@@ -1,0 +1,1 @@
+#This repository has Raspberry pi2 based code for automating tempaertaure sensor DS18b20 (by Dallas), Stepper motor using motor driver, pump with flow rate in microlitres and temperature controlling peltier.
